@@ -2,7 +2,7 @@
 
 ## Description
 
-The following program generates a secure random password that includes special characters, numbers, capital letters, and lower case letters to provide greater security to sensitive data. This program also uses JavaScript in addition to using arrays, strings, fumctions and methods like .split() and .concat(). AS AN employee with access to sensitive data
+The following program generates a secure random password that includes special characters, numbers, capital letters, and lower case letters to provide greater security to sensitive data. This program also uses JavaScript in addition to using arrays, strings, fumctions and methods like .split() and .concat(). 
 
 # Preview
 
